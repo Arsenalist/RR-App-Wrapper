@@ -1,0 +1,4 @@
+#Sat Feb 02 14:45:48 EST 2019
+base.0=C\:\\Users\\zarar\\projects\\rr-app-wrapper\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
