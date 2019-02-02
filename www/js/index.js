@@ -25,7 +25,7 @@ var app = {
     // Bind any cordova events here. Common events are:
     // 'pause', 'resume', etc.
     onDeviceReady: function() {
-        cordova.InAppBrowser.open("https://app.raptorsrepublic.com", "_self", "location=no");
+        cordova.InAppBrowser.open("https://app.raptorsrepublic.com", "_self", "location=no,zoom=no");
     }
 };
 
